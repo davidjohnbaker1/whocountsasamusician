@@ -62,3 +62,10 @@ This paper argues that the music community should work towards dispelling the my
 * Cite own work on Wagner and listening
 * Cite other research that says that there is too much on performance 
 * Make sure to include Eric Clarke stuff that is relevant
+
+### Want People to walk away thinking
+
+* Better understanding of math behind LVM 
+* That we shouldn't think of musicality this way
+* They want to participate in conversation of modeling
+
